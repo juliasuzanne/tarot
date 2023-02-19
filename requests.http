@@ -1,0 +1,5 @@
+### Photos Index
+GET http://localhost:3000/cards.json
+
+###
+GET http://localhost:3000/cards/12.json
